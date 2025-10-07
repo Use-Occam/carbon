@@ -5,7 +5,7 @@ resolver = "2"
 [workspace.package]
 rust-version = "1.82"
 version = "0.10.0"
-edition = "2021"
+edition = "2024"
 license = "MIT"
 repository = "https://github.com/sevenlabs-hq/carbon"
 
